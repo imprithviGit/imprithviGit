@@ -1,5 +1,5 @@
 
-Hi, I'm Prithviraj Maity!
+# Hi, I'm Prithviraj Maity!
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Dev (Node + React)<br>👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Angular, Flutter.<br>💬 Ask me about App and Web development.<br>⚡ Fun fact - When I'm not coding, you can find me analyzing players on FM23.
