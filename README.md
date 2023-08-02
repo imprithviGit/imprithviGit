@@ -1,7 +1,5 @@
-<p align="center">
 ![Alt Text](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983.gif)
 # Hi, I'm Prithviraj Maity!
-</p>
 
 # 💫 About Me:
 🔭 I’m currently working on Full Stack Dev (Node + React)<br>👯 I’m looking to collaborate on exciting projects.<br>🌱 I’m currently learning Angular, Flutter.<br>💬 Ask me about App and Web development.<br>⚡ Fun fact - When I'm not coding, you can find me analyzing players on FM23.
