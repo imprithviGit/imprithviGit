@@ -1,4 +1,4 @@
-![Alt text](https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 # Hi, I'm Prithviraj Maity!
 
 # 💫 About Me:
