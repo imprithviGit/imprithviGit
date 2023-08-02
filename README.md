@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983))
+![Alt Text](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983)
 # Hi, I'm Prithviraj Maity!
 
 # 💫 About Me:
